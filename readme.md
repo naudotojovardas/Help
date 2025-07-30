@@ -56,7 +56,7 @@ Click or paste that into your browser to access the **Web UI**!
 3.2 ⬇️ Download: `v1-5-pruned.safetensors`  
 3.3 🗂️ Save it to:  
 ```plaintext
-C:\Apps\StableDiffusion\webui\models\Stable-diffusion\
+e.g. C:\Apps\StableDiffusion\webui\models\Stable-diffusion\
 ```
 
 3.4 ⚠️ **Do not rename the file extension** — it must end in `.safetensors`  
@@ -91,7 +91,7 @@ nvidia-smi -l
 5.1 🪟 Open **Command Prompt**  
 5.2 📁 Go to your WebUI folder:  
 ```bash
-cd C:\Apps\StableDiffusion\webui
+e.g. cd C:\Apps\StableDiffusion\webui
 ```
 
 5.3 🛠️ Create the `dev` branch:
