@@ -1,0 +1,1 @@
+## **Clean install Stable Diffusion on Windows with RTX 50xx Win 11**
